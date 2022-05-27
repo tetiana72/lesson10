@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 212" width="330" height="212">
+	<title>our-shops-svg</title>
+	<style>
+		.s0 { fill: #f13c6e } 
+		.s1 { opacity: .4;fill: #ffffff } 
+		.s2 { fill: #f13c6e;stroke: #ffffff;stroke-width: 2 } 
+	</style>
+	<path id="Layer" class="s0" d="m-210 0h540v212h-540z"/>
+	<path id="Layer" fill-rule="evenodd" class="s1" d="m148.9 143c0 7.3-5.7 13-13.1 13-7.3 0-13-5.7-13-13 0-7.3 5.7-13 13-13 7.4 0 13.1 5.7 13.1 13zm82.1-71.1h-24.4v-15.9h6.5zm-135-15.9h102.5v89.5h-40.7c0 0-2.8-24.4-20.3-24.4-23.6 0-24.4 24.4-24.4 24.4h-16.3zm167.5 87c0 7.3-5.6 13-13 13-7.3 0-13-5.7-13-13 0-7.3 5.7-13 13-13 6.9 0 13 5.7 13 13zm21.2-28.1l-0.8 30.5h-15.1c0 0 0.4-20.3-17.4-20.3-23.6 0-20.4 20.3-20.4 20.3h-24.4v-69.1h28.5zm-53.7 6.1h-16.3v8.1h16.3zm40.7-6.5l-42.3-32.5h-16.3v22.8l16.3 9.7z"/>
+	<rect id="Layer" class="s2" x="-169" y="143" width="168" height="33" rx="16.5"></rect>
+</svg>
