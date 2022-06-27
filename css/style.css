@@ -248,7 +248,6 @@ a {
   flex-direction: column;
   padding-top: 35px;
   padding-left: 40px;
-  margin-bottom: 35px;
 }
 .subscribe__title {
   font-size: 18px;
@@ -264,11 +263,15 @@ a {
   margin-bottom: 25px;
 }
 .subscribe__email {
-  min-width: 225px;
+  min-width: 200px;
   height: 30px;
   background: var(--color-light);
   border-radius: 30px;
-  padding: 5px 0 5px 25px;
+  padding: 0.1rem 0 0.1rem 1.5rem;
+  border: 2px solid var(--color-light);
+  margin-bottom: 35px;
+  margin-left: 35px;
+  outline: none;
 }
 .subscribe__email::placeholder {
   color: var(--color-pale);
@@ -276,7 +279,6 @@ a {
 .location {
   background-color: var(--color-primary);
   background-image: url(../images/our-shops-svg.svg);
-  background-size: calc(100% - 604px);
   background-repeat: no-repeat;
   background-position: 100%;
   min-height: 210px;
